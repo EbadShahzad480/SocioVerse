@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 95472
+  controlID: 206
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 95473
+  controlID: 207
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 95474
+  controlID: 208
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -186,8 +186,8 @@ MonoBehaviour:
     y: 0
     width: 258
     height: 376
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -226,7 +226,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c274feff0675feff7676feff8876feffa676feffc476feffdc76fefff876feff0477feff1077feff1c77feff2e77feffa077feff127bfeffe27bfeffbe7cfeff867dfeff3c88feff5088feff7888feffb688feffc489feff1a8afeff5c8afeffc08cfeff0a8dfeff4c8dfeff3692feff2694feffd294feffb095feff449afeff9a9afeff309cfeff0c9dfefff09dfeffa6a2feff26a8feff6ab6feff92d5feffaae5feff2ae6feffd2e6feff38eefeff50effeffe2f3feff60f5feffecf5feffda0affff560effffa40effff8e0fffffaa12ffffb812ffffc612ffff0e13ffff7813ffffb613ffffec15ffff9816ffff1e17ffff9e19ffff5c2affff662affff702affffcc2affff382bffff882bffffc62bffff742effff6842ffff4c46ffffa44bffffb24bffff0a4cffffbe67ffffe284ffff72b2ffff7eb2ffff86b2ffffdcb2ffff3cb3ffff80b3ffffb6c3ffff5aecffffb0ecffff70edffffb0edffff14eeffff2cfbffff6a5f0000a47d0000ae7d0000487e0000787e0000887e00000487000066870000ac890000b68900002c8a0000448a0000be8f0000009000008c9000003294000016970000609700006e9700007e970000b29b0000f49b0000989c0000ec9c0000fa9c00000a9d00003c9e00007e9e0000f29e0000009f00006aa00000c0a00000cea00000dea00000fea2000040a30000e4a300002ea400003ca400004ca40000faab000004ac0000a2ac0000baac0000fab600003cb7000052b70000a2b80000b8b800005ab900007eb90000eaba00004abb000074bb0000febc00007abd0000e0bd00008ec00000d0c00000e6c0000036c20000b2c20000cac2000030c30000cacb0000e2cb0000aad10000ecd1000070db000086db000028dc00004cdc0000a8dd000024de00003cde0000a2de0000fcdf000068e000008ae00000bee000006ce20000c6e20000d4e20000e8e20000
+      m_ExpandedIDs: e8f1ffff32f7ffff2cfbffff0683000088830000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -713,13 +713,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: 51
-  m_LastProjectPath: C:\Users\hp\Login Design\Login Design
+  m_LastProjectPath: C:\Users\hp\SocioVerse
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1e610000
-    m_LastClickedID: 24862
+    m_SelectedIDs: 24610000
+    m_LastClickedID: 24868
     m_ExpandedIDs: 000000000a610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -773,9 +773,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: e8f1ffff
+    m_LastClickedInstanceID: -3608
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000068e0000de7a0000c88e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -851,8 +851,8 @@ MonoBehaviour:
     y: 0
     width: 323
     height: 635
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -892,8 +892,8 @@ MonoBehaviour:
     m_CachedPref: -160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastInspectedObjectInstanceID: -3608
+  m_LastVerticalScrollValue: 1.6000061
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
